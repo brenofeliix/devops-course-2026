@@ -6,7 +6,7 @@ Group 02
 ## Members
 - Arthur Esse Borges Xavier de Lima e Melo - RA: 202426610050  
 - Gustavo Alves da Silva - 202426610004
-- Deborah ( colocar nome completo e rga depois, estou apenas testando)
+- Déborah Teles dos Santos - 202121640003
 
 ## Chosen Topic
 DevSecOps: Técnicas e Ferramentas de Segurança na Automação de Pipelines CI/CD
