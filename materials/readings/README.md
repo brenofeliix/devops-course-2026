@@ -6,6 +6,8 @@ Para a realização da busca de artigos científicos, é fundamental construir u
 
 🔗 https://library.cranfield.ac.uk/literature-review/search-strings
 
+🔗 https://aut.ac.nz.libguides.com/systematic_reviews/developing_a_search_strategy#s-lg-box-21709984
+
 ---
 
 ###  Dicas importantes
