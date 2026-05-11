@@ -1,11 +1,6 @@
 # Group 01 Workspace
 
-Use this directory to store working files for your project.
-
-Suggested files:
-
-topic.md
-research-question.md
-article-notes.md
-pipeline-design.md
-draft-report.md
+## Members
+- Matheus Emanoel Lopes de Souza - RA: 202616610005
+- Gabriel Alves Pereira - RA: 202211640012
+- Sara Cristina Correia da Silva - RA: 202326400001

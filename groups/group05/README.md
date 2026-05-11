@@ -1,11 +1,5 @@
-# Group 5 Workspace
+# Group 5
 
-Use this directory to store working files for your project.
-
-Suggested files:
-
-topic.md
-research-question.md
-article-notes.md
-pipeline-design.md
-draft-report.md
+- Daniel Castilho de Oliveira (202316400010)
+- Rian Karlos Silva Weber (202316400039)
+- Ricardo de Almeida Sarruf (202211640030)

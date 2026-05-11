@@ -1,11 +1,2 @@
-# Group 03 Workspace
-
-Use this directory to store working files for your project.
-
-Suggested files:
-
-topic.md
-research-question.md
-article-notes.md
-pipeline-design.md
-draft-report.md
+group 3 - Raphael Carvalho de Figueiredo Rocha 
+RGA - 202326400015

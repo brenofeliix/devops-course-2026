@@ -192,6 +192,15 @@ At the end of the course, each group must submit:
 
 ---
 
+
+# Notas da Disciplina
+
+## Acesso à Planilha
+
+[Clique aqui para acessar a planilha de notas](https://docs.google.com/spreadsheets/d/1pLBo8lpqZFoWfvD8lz3OsrbkMm3fksgXhDYjYSJu-vw/edit?usp=sharing)
+
+---
+
 # Contact
 
 If you have questions about the project workflow or submissions, please contact the instructor.

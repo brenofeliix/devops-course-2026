@@ -39,8 +39,9 @@ A systematic review report provides a comprehensive summary of the methods and r
 ## 3. Introduction
 
 - **Context:** Detailed description of the problem and motivation for the review.  
-  - As equipes de desenvolvimento de software que operam em ambientes de ritmo acelerado enfrentam uma pressão crescente para entregar sistemas confiáveis ​​com ciclos de lançamento mais curtos. Nesse contexto, as práticas de DevOps e os pipelines de CI/CD tornaram-se essenciais para garantir a entrega contínua, mantendo a qualidade do software. No entanto, a eficiência desses pipelines é diretamente afetada pelo desempenho dos testes de integração — uma etapa crítica responsável por validar as interações entre serviços, bancos de dados, APIs externas e módulos internos.
-  Em ambientes de tecnologia financeira (fintech), esse desafio é amplificado. A alta complexidade dos sistemas distribuídos, os rigorosos requisitos regulatórios e a baixa tolerância a falhas exigem estratégias de teste robustas e bem monitoradas. Apesar disso, muitas equipes ainda carecem de dados objetivos para identificar onde o tempo está sendo perdido em seus pipelines, quais ferramentas são mais eficazes para seu contexto e quais contramedidas podem ser aplicadas para reduzir os gargalos de produtividade.  O uso de métricas de teste de integração surge como uma abordagem estratégica para abordar essas lacunas. Ao coletar e analisar sistematicamente métricas — como tempo de execução de teste, duração do pipeline, taxa de falhas e tempo de feedback do desenvolvedor — as equipes podem tomar decisões baseadas em dados que melhoram diretamente a velocidade de entrega e a confiabilidade do software.
+  - Software development teams working in fast-paced environments face growing pressure to deliver reliable systems on shorter release cycles. In that context, DevOps practices and CI/CD pipelines have become essential to sustain continuous delivery while preserving software quality. Yet the efficiency of those pipelines depends directly on how well integration tests perform—a critical stage that validates interactions among services, databases, external APIs, and internal modules.
+
+  In financial technology (fintech) settings, that challenge is even sharper. Highly distributed systems, strict regulatory demands, and very low tolerance for failure call for strong, well-monitored testing strategies. Even so, many teams still lack objective data to see where time is lost in their pipelines, which tools fit their context best, and what countermeasures can ease productivity bottlenecks. Integration-test metrics offer a strategic way to close those gaps. By systematically gathering and analyzing measures such as test run time, pipeline duration, failure rate, and developer feedback time, teams can make evidence-based decisions that directly improve delivery speed and software reliability.
 
 - **Objectives:** Research questions or specific objectives.  
   - RQ-1: During software development, what are the main productivity and time bottlenecks correlated with integration testing metrics, and what countermeasures should be applied to reduce their impact on productivity and final delivery?
@@ -74,8 +75,27 @@ A systematic review report provides a comprehensive summary of the methods and r
 
   *("fintech" OR "financial technology" OR "digital banking") AND ("DevOps" OR "CI/CD" OR "continuous delivery") AND ("DORA metrics" OR "deployment frequency" OR "change failure rate" OR "pipeline metrics")*
 
-**Study Selection:**  
-  Screening and article selection process.  
+  - **Selected articles:**
+
+| # | Title | Authors | Year | Source |
+|---|-------|---------|------|--------|
+| 1 | Systematic Review of Key Performance Metrics in Modern DevOps and Software Reliability Engineering | Al Daraojimba, D. Kisina | 2024 | Journal of Future Engineering |
+| 2 | GitOps and Continuous Delivery in Financial Software: Best Practices for Efficient DevOps Pipelines | A. Nagraj | 2022 | Frontiers in Computer Science |
+| 3 | A DevOps Maturity Framework for Enhancing Cross-Functional Collaboration and Continuous Deployment Efficiency | T. Oyewole et al. | 2023 | Multiresearch Journal |
+| 4 | The Synergistic Impact of Artificial Intelligence on DevOps: A Comprehensive Review | K. Sakinala | 2025 | IJSR |
+| 5 | The Role of Test Automation Frameworks in Enhancing Software Reliability: A Review of Selenium, Python, and API Testing Tools | SN Jyoti, MR Islam, BP Kurdge | 2024 | IJBEI Journal |
+| 6 | Systematic Review of Performance Metrics and OKR Alignment in Agile Product Teams Across Industry Verticals | JJ Owusu, BJ Adekunle | 2022 | Multidisciplinary Frontiers |
+| 7 | Microservices Architectures Using Spring Boot: Embracing Containerization and Observability | V. Koneri | 2024 | Innovative Research Journal |
+| 8 | Decomposition of Monolith Applications into Microservices Architectures: A Systematic Review | Y. Argaz, A. McCarren et al. | 2023 | IEEE Transactions |
+| 9 | AI-Driven DevOps: A Review of Machine Learning-Based Intelligent Automation for Deployment and Maintenance | SR Varanasi | 2025 | IEEE Conference |
+| 10 | A Review on Interplay of AutoML and MLOps "AutoMLOps": Current State, Challenges and Future Scope | K. Singh, A. Goswami, S. Kukreja | 2025 | Springer |
+
+
+
+<!-- **Study Selection:**  
+  Screening and article selection process. -->
+
+
 
 <!-- - **Data Extraction:**  
   How the data were collected and organized.  
