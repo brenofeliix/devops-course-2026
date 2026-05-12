@@ -1,0 +1,36 @@
+# Semana 06 – Tabela de Evidências
+
+## Tema do Artigo Científico
+
+**Plataformas de Computação em Nuvem Aplicadas ao DevOps: Análise Comparativa entre AWS, Microsoft Azure e Google Cloud Platform**
+
+## Integrantes
+
+- Daniel Castilho de Oliveira
+- Rian Karlos Silva Weber
+- Ricardo de Almeida Sarruf
+
+## Tabela de Evidências da Literatura
+
+| Artigo | Ano | Prática DevOps | Ferramenta | Contexto | Resultado |
+|---|---:|---|---|---|---|
+| *Cloud-native DevOps Practices for SAP Deployment* | 2022 | CI/CD, conteinerização, microsserviços, IaC e monitoramento | Kubernetes, Docker, Jenkins/GitLab CI, AWS, Azure e GCP | Implantação de sistemas SAP em ambientes cloud-native | As práticas cloud-native reduzem limitações do modelo tradicional, melhoram escalabilidade, diminuem downtime e aumentam a agilidade operacional. |
+| *Comparing Major Cloud Providers for AI/ML Workloads: AWS vs Azure vs GCP* | 2024 | MLOps, automação de pipelines, monitoramento e versionamento de modelos | AWS SageMaker, Azure Machine Learning, Google Vertex AI | Comparação entre provedores de nuvem para cargas de IA/ML | AWS apresenta ecossistema mais maduro; Azure se destaca pela integração corporativa e DevOps; GCP lidera em AutoML, TPUs e ferramentas de ciência de dados. |
+| *Accelerating Enterprise SAP Workload Performance and Automation Using Microsoft Azure Center for SAP Solutions* | 2023 | Infraestrutura como Código, automação, orquestração e monitoramento preditivo | Azure Center for SAP Solutions, Azure DevOps, Azure Monitor, Logic Apps e Azure Backup | Otimização de workloads SAP em ambiente Microsoft Azure | A automação reduziu o tempo de implantação em mais de 60%, elevou a eficiência de custos em cerca de 40%, melhorou a escalabilidade em 70% e aumentou a confiabilidade em 65%. |
+| *Comparative Evaluation of Cloud-Native and VM-Based CI/CD Pipelines for Automated DevOps Deployments* | 2025 | Integração Contínua e Entrega/Implantação Contínua | Pipelines CI/CD cloud-native e baseados em máquinas virtuais | Comparação entre pipelines tradicionais em VM e pipelines cloud-native | Ambientes cloud-native mostraram maior aderência aos princípios de velocidade, resiliência e elasticidade, enquanto VMs oferecem maior controle e customização. |
+| *The Role of DevOps and Automation in Cloud Transition* | 2022 | CI/CD, IaC, testes automatizados, monitoramento e automação de configuração | Jenkins, Terraform, Ansible, GitLab CI/CD, CloudFormation, Prometheus, Grafana, Datadog | Migração de aplicações e infraestrutura para ambientes de nuvem | DevOps e automação são apontados como pilares centrais da transição para a nuvem, reduzindo erros humanos, acelerando implantações e melhorando confiabilidade. |
+| *Management of Self-Healing Systems for Multi-Cloud Deployments on Kubernetes* | 2024 | Monitoramento contínuo, CI/CD, auto-recuperação e orquestração | Kubernetes, Kubernetes Operators, Datadog, Jenkins, AWS, Azure e GCP | Ambientes multi-cloud com necessidade de alta disponibilidade | O sistema de self-healing reduziu tempo de recuperação, otimizou recursos e manteve alta disponibilidade mesmo diante de falhas. |
+| *Adoption of Infrastructure as Code (IaC) in Real World* | 2022 | Infraestrutura como Código e automação de provisionamento | Terraform, AWS CDK e ferramentas de IaC | Adoção real de IaC por profissionais e equipes de tecnologia | A IaC foi avaliada positivamente pelos participantes; apesar da complexidade inicial, trouxe benefícios de velocidade, transparência, escalabilidade e padronização. |
+| *Infrastructure-as-Code with Scripting: A Technical Review* | 2025 | IaC, automação por scripts, GitOps, testes e validação de infraestrutura | Terraform, Ansible, Python, PowerShell, Bash, CloudFormation, Azure ARM/Bicep e Google Deployment Manager | Revisão técnica sobre IaC combinada com linguagens de script | A combinação entre IaC e scripts amplia a automação, reduz erros de configuração, melhora auditoria, facilita conformidade e aumenta a consistência dos ambientes. |
+| *Data Governance and Compliance in Cloud-Based Data Engineering Pipelines* | 2024 | Governança automatizada, compliance-as-code, monitoramento contínuo e CI/CD | AWS Lake Formation, AWS Config, Azure Purview, Azure DevOps, Azure Policy, Google Cloud Data Catalog e BigQuery | Pipelines de engenharia de dados em nuvem sujeitos a requisitos regulatórios | A incorporação de políticas em templates IaC e pipelines CI/CD ajuda a detectar e corrigir configurações incorretas, fortalecendo segurança, governança e conformidade. |
+| *The Role of Software Developers in Transitioning On-Premises Applications to Cloud Platforms* | 2021 | CI/CD, conteinerização, IaC, automação e monitoramento | Terraform, Jenkins, GitHub Actions, Docker, Kubernetes, Prometheus e Datadog | Migração de aplicações on-premises para plataformas de nuvem | Desenvolvedores exercem papel estratégico na refatoração, automação, segurança e otimização de custos, tornando a migração mais confiável e eficiente. |
+| *Cloud Enabled Intelligent Enterprise Healthcare Framework with Machine Learning Based on AI and Blockchain Governance* | 2025 | Orquestração em nuvem, monitoramento contínuo, automação de compliance e governança | Cloud-native architecture, APIs, smart contracts, blockchain, ML/AI e pipelines de dados | Framework inteligente para saúde baseado em nuvem, IA e blockchain | A arquitetura proposta melhora escalabilidade, interoperabilidade, segurança, rastreabilidade, análise preditiva e conformidade regulatória no setor de saúde. |
+| *Analyzing the System Features, Usability, and Performance of a Containerized Application on Cloud Computing Systems* | 2023 | Conteinerização, serverless deployment, escalabilidade automática e monitoramento de desempenho | Google Cloud Run, AWS App Runner, Azure Container Apps e containers | Avaliação de aplicação web/móvel conteinerizada em plataformas serverless | Google Cloud Run apresentou melhor desempenho e usabilidade, com menor latência e melhor tempo de resposta em comparação com AWS App Runner e Azure Container Apps. |
+
+## Síntese das Evidências
+
+A literatura analisada demonstra que as práticas de DevOps em ambientes de computação em nuvem estão fortemente associadas à automação, padronização, escalabilidade e melhoria da confiabilidade operacional. As práticas mais recorrentes foram **Integração Contínua/Entrega Contínua (CI/CD)**, **Infraestrutura como Código (IaC)**, **conteinerização**, **orquestração com Kubernetes**, **monitoramento contínuo**, **automação de testes**, **governança automatizada** e **self-healing**.
+
+De modo geral, os artigos indicam que AWS, Microsoft Azure e Google Cloud Platform oferecem recursos maduros para apoiar práticas DevOps, porém com ênfases distintas. A AWS aparece com forte maturidade de serviços e flexibilidade; o Azure se destaca pela integração com ambientes corporativos, Azure DevOps e soluções empresariais; e o GCP apresenta vantagem em serviços serverless, AutoML, dados e cargas avançadas de IA/ML.
+
+Assim, as evidências reforçam que a adoção de práticas DevOps em plataformas de nuvem contribui para acelerar implantações, reduzir falhas manuais, melhorar a governança, aumentar a disponibilidade dos sistemas e favorecer decisões estratégicas na escolha entre AWS, Azure e GCP.
