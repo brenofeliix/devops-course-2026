@@ -83,7 +83,7 @@ Para guiar a seleção dos estudos, estruturou-se o modelo PICOS da seguinte for
   - Tipo de estudo: Revisões de literatura, estudos empíricos, pesquisas de opinião da indústria, benchmarks e relatórios de conferências científicas.
 
 - **Fontes de Informação:**  
- ...
+ A principal fonte de pesquisa das literaturas acadêmicas foi o Google Acadêmico que concentra indexadores e bases como ACM Digital Library e IEEE Xplore.
 
 - **Estratégia de Busca:**  
   Foram elaboradas 4 strings de busca específicas, alinhadas diretamente às RQs do projeto:
